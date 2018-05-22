@@ -25,11 +25,11 @@ import (
 	"sync"
 	"time"
 
-	ethereum "github.com/ethereum/go-ethereum"
-	"github.com/ethereum/go-ethereum/accounts"
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/core/types"
-	"github.com/ethereum/go-ethereum/log"
+	ethereum "github.com/theshepster/go-ethereum"
+	"github.com/theshepster/go-ethereum/accounts"
+	"github.com/theshepster/go-ethereum/common"
+	"github.com/theshepster/go-ethereum/core/types"
+	"github.com/theshepster/go-ethereum/log"
 	"github.com/karalabe/hid"
 )
 

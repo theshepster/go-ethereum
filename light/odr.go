@@ -22,11 +22,11 @@ import (
 	"context"
 	"math/big"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/core"
-	"github.com/ethereum/go-ethereum/core/rawdb"
-	"github.com/ethereum/go-ethereum/core/types"
-	"github.com/ethereum/go-ethereum/ethdb"
+	"github.com/theshepster/go-ethereum/common"
+	"github.com/theshepster/go-ethereum/core"
+	"github.com/theshepster/go-ethereum/core/rawdb"
+	"github.com/theshepster/go-ethereum/core/types"
+	"github.com/theshepster/go-ethereum/ethdb"
 )
 
 // NoOdr is the default context passed to an ODR capable function when the ODR

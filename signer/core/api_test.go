@@ -27,13 +27,13 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ethereum/go-ethereum/accounts/keystore"
-	"github.com/ethereum/go-ethereum/cmd/utils"
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/common/hexutil"
-	"github.com/ethereum/go-ethereum/core/types"
-	"github.com/ethereum/go-ethereum/internal/ethapi"
-	"github.com/ethereum/go-ethereum/rlp"
+	"github.com/theshepster/go-ethereum/accounts/keystore"
+	"github.com/theshepster/go-ethereum/cmd/utils"
+	"github.com/theshepster/go-ethereum/common"
+	"github.com/theshepster/go-ethereum/common/hexutil"
+	"github.com/theshepster/go-ethereum/core/types"
+	"github.com/theshepster/go-ethereum/internal/ethapi"
+	"github.com/theshepster/go-ethereum/rlp"
 )
 
 //Used for testing
